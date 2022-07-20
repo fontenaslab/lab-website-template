@@ -14,9 +14,9 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="laura.fontenas@gmail.com"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="laura.fontenas@gmail.com"
   style="button"
 %}
 {%
